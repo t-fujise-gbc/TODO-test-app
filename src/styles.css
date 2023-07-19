@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+}
+
+.input-area {
+  background-color: greenyellow;
+}
+
+.imcomplete-area {
+  background: cyan;
+}
+
+.complete-area {
+  background: orange;
+}
+
+li {
+  padding: 5px 0;
+}
